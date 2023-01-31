@@ -1,11 +1,11 @@
-Welcome to NMC-M! documentation!
+Welcome to Neuroprimer - Module 3 (Neuroimaging) documentation!
 ===================================
 
 .. include:: ../README.md
 
 .. toctree::
    :maxdepth: 1
-   :caption: About NMC-M1
+   :caption: About Neuroprimer Module 3 - Neuroimaging
    :glob:
       
    about/overview
