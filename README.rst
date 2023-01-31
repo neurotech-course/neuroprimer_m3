@@ -1,4 +1,4 @@
-NMC-M1 - NEUROIMAGING Neurotech microcredentials module 1
+Neuroprimer Module 3 - NEUROIMAGING
 =================
 (`Here is a link <https://en.wikipedia.org/wiki/The_Hobbit>`_)
 
