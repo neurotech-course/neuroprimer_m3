@@ -1,6 +1,6 @@
 Neuroscience and Neurotechnology Primer module 3
 =================
 .. note::
-  **Activities & Assignment are available in the Learning Management System.** 
+  **Assessments and Activities will be made available at 8am EST on June 9th.** 
 
-  We have decided to house the assignment descriptions in the Learning Management System (LMS) instead of here on GitHub. Please nagivate   to the *content* page for the third module of the *Neuroscience and Neurotechnology Primer* micro-credential.
+  We will be launching the activities and assignments for this module this upcoming   Friday, June 9th, at 8am EST. They will be located in the Learning Management       System. Please reach out if you have any questions.
